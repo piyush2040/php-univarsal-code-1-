@@ -12,5 +12,5 @@
 <h3>    inernal_key3: value3</h3>
 <h3>  }</h3>
 <h3>  }</h3>
-<h2>of this format with nesed key-value pair and pair as a array.</h2>
+<h2>of this format with nested key-value pair.</h2>
 <h2>In this code the json file is accessed and all data is inserted in sql database.</h2>
